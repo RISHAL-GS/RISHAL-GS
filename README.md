@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishal G Shriyan</h1>
-<h3 align="center">3rd year student from NMAMIT</h3>
+<h3 align="center">4th year student from NMAMIT</h3>
 
 - 📫 How to reach me **shriyanrishal@gmail.com**
 
